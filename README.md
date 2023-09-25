@@ -1,2 +1,2 @@
-# SQL-CODE
+# SQL-CODE/ Khan Academy
 This is My SQL Portfolio
