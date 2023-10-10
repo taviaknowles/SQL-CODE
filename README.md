@@ -15,13 +15,16 @@ Welcome to my SQL portfolio, where I demonstrate my proficiency in leveraging th
 
 - <b>Khan Academy</b>
 
-<h2>Project list:</h2>
+<h2>Project list:</h2>  
 
-- <b>Box office hits database</b>
-- <b>TODO list database stats/</b>
-- <b>Project: Design a store database</b>
-- <b> Challenge: Karaoke song selector</b>
-- <b> Challenge: Playlist maker</b>
-- <b> Challenge: The wordiest author</b>
-- <b>Challenge: Gradebook</b>
+<b> Click link below to see all 6 SQL project </b> 
+
+## https://github.com/taviaknowles/SQLProjects_TK
+
+- <b>1.Box office hits database</b>
+- <b>2.TODO list database stats/</b>
+- <b>3.Project: Design a store database</b>
+- <b>4.Challenge: Karaoke song selector</b>
+- <b>5.Challenge: Playlist maker</b>
+- <b>6.Challenge: Gradebook</b>
   
