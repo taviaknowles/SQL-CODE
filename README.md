@@ -2,12 +2,14 @@
 
 
 <h2>Description</h2>
-Welcome to my SQL portfolio, where I demonstrate my proficiency in leveraging the power of Structured Query Language (SQL) to solve real-world problems and extract valuable insights from complex datasets. As a dedicated data enthusiast, I have crafted these projects to showcase my skills in database management, data manipulation, and basic to intermediate querying techniques.
+Welcome to my portfolio!
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
-
+- <b><HTML/b>
+- <b>CSS</b>
+- <b>JavaScript</b>
 - <b>SQL</b> 
 
 
